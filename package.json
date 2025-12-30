@@ -1,0 +1,9 @@
+{
+  "name": "cicada",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "express": "*"
+  }
+}
